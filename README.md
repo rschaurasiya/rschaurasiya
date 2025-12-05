@@ -1,13 +1,11 @@
-# 👋 Hello! I'm Radheshyam Chaurasiya
+# Hello! I'm Radheshyam Chaurasiya
 
-🎓 2nd Year B.Tech CSE Student @ Punjab Technical University (PTU)  
-🤖 Aspiring **Machine Learning Engineer** & **Data Scientist**  
-🌱 Learning and Exploring the World of AI & Data  
-🌄 From Nepal Building for Nepal | 🚀 Passionate about Data-Driven Solutions
-
+- 2nd Year B.Tech CSE Student @ I.K. Gujral Punjab Technical University (IKGPTU)  
+- Aspiring **Machine Learning Engineer** & **Data Scientist**  
+- Learning and Exploring the World of AI & Data  
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +30,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rschaurasiya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radheshyam-kumar-chaurasiya-137117294)
@@ -43,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -57,7 +55,7 @@
 
 ---
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -70,23 +68,23 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔭 Building ML models and exploring data science projects
-- 🌱 Deepening my knowledge in **Machine Learning** and **Deep Learning**
-- 📊 Practicing data analysis and visualization techniques
-- 👯 Looking to collaborate on **open-source ML/Data Science projects**
-- 💬 Ask me about **Python, Data Science, Machine Learning, or APIs**
-- ⚡ Fun fact: I debug code faster with a cup of chai! ☕
+- Building ML models and exploring data science projects
+- Deepening my knowledge in **Machine Learning** and **Deep Learning**
+- Practicing data analysis and visualization techniques
+- Looking to collaborate on **open-source ML/Data Science projects**
+- Ask me about **Python, Data Science, Machine Learning, or APIs**
+
 
 ---
 
 <div align="center">
   
-### 🌟 *Thanks for visiting! Join me on this exciting journey of learning and building data-driven solutions.* 🌟
+### *Thanks for visiting! Join me on this exciting journey of learning and building data-driven solutions.* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rschaurasiya&color=blueviolet&style=for-the-badge)
 
-**"The only way to learn mathematics is to do mathematics. The same applies to data science!"** 🚀
+**"The only way to learn mathematics is to do mathematics. The same applies to data science!"** 
 
 </div>
