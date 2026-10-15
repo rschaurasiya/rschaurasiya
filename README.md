@@ -4,7 +4,7 @@
 
 I'm a B.Tech CSE student at I.K. Gujral Punjab Technical University (IKGPTU), focused on building practical solutions using data science, machine learning, and AI.
 
-About Me
+### About Me
 
 - Pursuing B.Tech in Computer Science and Engineering.
 - Interested in Data Science, Machine Learning, and AI Engineering.
@@ -13,7 +13,7 @@ About Me
 - Currently exploring Large Language Models (LLMs) and Agentic AI.
 - Focused on solving real-world problems through practical projects.
 
-Technical Skills
+### Technical Skills
 
 - Programming: Python, SQL
 - Data Analysis: Pandas, NumPy, Excel
@@ -30,7 +30,7 @@ Technical Skills
 
 Featured Projects
 
-1. Real Estate AI Assistant
+### 1. Real Estate AI Assistant
 
 - Built a Retrieval-Augmented Generation (RAG) application for answering real-estate questions using web content.
 - Implemented text chunking, embeddings, ChromaDB vector search, and Groq LLMs.
