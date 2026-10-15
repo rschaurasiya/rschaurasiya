@@ -75,7 +75,7 @@ I'm a B.Tech student in Computer Science and Engineering at I.K. Gujral Punjab T
 
 - **GitHub:** [rschaurasiya](https://github.com/rschaurasiya)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/radheshyamkumar)
-- **Portfolio:** [Codebasics Portfolio](https://codebasics.io/portfolio/RADHESHYAM-KUMAR-CHAURASIYA)
+- **Portfolio:** [Portfolio Website](https://codebasics.io/portfolio/RADHESHYAM-KUMAR-CHAURASIYA)
 
 ---
 
