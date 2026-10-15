@@ -1,6 +1,6 @@
 # Hi, I'm Radheshyam Kumar Chaurasiya
 
-## Data Science | Machine Learning | Artificial Intelligence
+### Data Science | Machine Learning | Artificial Intelligence
 
 I'm a B.Tech CSE student at I.K. Gujral Punjab Technical University (IKGPTU), focused on building practical solutions using data science, machine learning, and AI.
 
