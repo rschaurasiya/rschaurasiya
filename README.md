@@ -63,7 +63,7 @@ I'm a B.Tech student in Computer Science and Engineering at I.K. Gujral Punjab T
 - Built an application to record expenses and visualize spending with charts.
 - Uses a Streamlit interface, FastAPI backend, and MySQL database.
 - **Tech Stack:** Python, Streamlit, FastAPI, MySQL
-- **Link:** [GitHub Repository](https://github.com/rschaurasiya/Expense_management)
+- **Link:** [GitHub Repository](https://github.com/rschaurasiya/Expense_management) | [Live Streamlit UI](https://expensemanagement-byradheshyam.streamlit.app/)
 
 ## Current Focus
 
