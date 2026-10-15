@@ -1,52 +1,91 @@
 Hi, I'm Radheshyam Kumar Chaurasiya
-B.Tech CSE Student | Aspiring Data Scientist | AI/ML Developer
+
+Data Science | Machine Learning | Artificial Intelligence
+
+I'm a B.Tech CSE student at I.K. Gujral Punjab Technical University (IKGPTU), focused on building practical solutions using data science, machine learning, and AI.
 
 About Me
-Pursuing B.Tech in Computer Science and Engineering at I.K. Gujral Punjab Technical University.
-Interested in Data Science, Machine Learning, Deep Learning, NLP, and Generative AI.
-Build practical projects that turn data and AI techniques into useful applications.
-Currently exploring LLMs and Agentic AI, with a focus on real-world use cases.
-Interested in opportunities in Data Science, Data Analytics, and AI/ML.
+
+- Pursuing B.Tech in Computer Science and Engineering.
+- Interested in Data Science, Machine Learning, and AI Engineering.
+- Experienced in building machine learning models and AI-powered applications.
+- Completed Deep Learning and Natural Language Processing (NLP).
+- Currently exploring Large Language Models (LLMs) and Agentic AI.
+- Focused on solving real-world problems through practical projects.
+
 Technical Skills
-Programming: Python, SQL
-Data Analysis: NumPy, Pandas, Matplotlib, Seaborn, Excel
-Machine Learning: Scikit-learn, XGBoost, feature engineering, model evaluation, hyperparameter tuning
-Deep Learning: Neural Networks, CNNs, Transfer Learning, ResNet50
-NLP & Generative AI: Natural Language Processing, LLM applications, Retrieval-Augmented Generation (RAG), embeddings, prompt engineering
-Frameworks & Apps: Streamlit, FastAPI, LangChain
-Databases & Vector Search: MySQL, ChromaDB
-Tools: Git, GitHub, MLflow, Jupyter Notebook
-Statistics: Hypothesis Testing, Confidence Intervals, A/B Testing
+
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, Excel
+- Data Visualization: Matplotlib, Seaborn
+- Statistics: Hypothesis Testing, Confidence Intervals, A/B Testing
+- Machine Learning: Scikit-learn, Regression, Classification, Feature Engineering, Model Evaluation
+- Deep Learning: Neural Networks, CNNs, Transfer Learning
+- NLP: Text Preprocessing, TF-IDF, Text Classification
+- Generative AI: RAG, LLM Applications, Prompt Engineering
+- AI Frameworks & Tools: LangChain, ChromaDB, Groq, Hugging Face
+- App Development: Streamlit, FastAPI
+- Database: MySQL
+- Tools: Git, GitHub, Jupyter Notebook, VS Code, MLflow
+
 Featured Projects
+
 1. Real Estate AI Assistant
-Built a RAG-based assistant that answers questions using real-estate articles and news sources.
-Uses web-content extraction, text chunking, embeddings, ChromaDB vector search, and a Groq-powered LLM.
-Displays source URLs alongside answers through a Streamlit interface.
-Repository: Real Estate AI Assistant
+
+- Built a Retrieval-Augmented Generation (RAG) application for answering real-estate questions using web content.
+- Implemented text chunking, embeddings, ChromaDB vector search, and Groq LLMs.
+- Provides answers with source URLs through a Streamlit interface.
+- Tech Stack: Python, LangChain, ChromaDB, Groq, Streamlit
+- "View Repository" (https://github.com/rschaurasiya/Real_Estate_AI_Assistant)
+
 2. Vehicle Damage Detection
-Developed a deep-learning model to classify vehicle images into front/rear damage and normal-condition categories.
-Experimented with CNNs and transfer learning, including ResNet50.
-Built a Streamlit interface for image-based predictions.
-Repository: Vehicle Damage Detection
-3. Credit Risk Modeling
-Built a machine-learning workflow to identify credit-risk patterns.
-Worked with Logistic Regression, XGBoost, class-imbalance handling, and hyperparameter tuning.
-Repository: Credit Risk Modeling
+
+- Developed a deep-learning application to classify vehicle images into damage categories.
+- Used transfer learning with ResNet50 and deployed the application using Streamlit.
+- Tech Stack: Python, PyTorch, Deep Learning, ResNet50, Streamlit
+- "View Repository" (https://github.com/rschaurasiya/Vehicle_damage_detection)
+
+3. Credit Risk Prediction
+
+- Built machine learning models to assess credit risk.
+- Applied data preprocessing, class-imbalance handling, and hyperparameter optimization.
+- Tech Stack: Python, Pandas, Scikit-learn, XGBoost, Optuna
+- "View Repository" (https://github.com/rschaurasiya/ml_project_credit_risk_modeling)
+
 4. Health Premium Prediction
-Built a machine-learning application to estimate health insurance premiums from input features.
-Worked with Linear Regression and XGBoost and created a Streamlit interface.
-Repository: Health Premium Prediction
-Currently Learning
-Large Language Models (LLMs)
-Agentic AI and AI agents
-Practical applications of Generative AI
-Areas of Interest
-Data Science and Analytics
-Machine Learning and Deep Learning
-NLP, RAG, and LLM-powered applications
-Building useful, data-driven AI products
-Connect
-GitHub: @rschaurasiya
-LinkedIn: Radheshyam Kumar Chaurasiya
-Portfolio: Codebasics Portfolio
-I believe in learning by building, improving through experimentation, and using technology to solve practical problems.
+
+- Developed a machine learning application to estimate health insurance premiums.
+- Used Linear Regression and XGBoost for prediction and deployed the application with Streamlit.
+- Tech Stack: Python, Pandas, Scikit-learn, XGBoost, Streamlit
+- "View Repository" (https://github.com/rschaurasiya/ML-project-Health-premium-prediction)
+
+5. Expense Management System
+
+- Built an application to record and track expenses and visualize spending.
+- Integrated a Streamlit frontend, FastAPI backend, and MySQL database.
+- Tech Stack: Python, MySQL, FastAPI, Streamlit
+- "View Repository" (https://github.com/rschaurasiya/Expense_management)
+
+6. Fake News Detection
+
+- Developed a machine learning model to classify news as real or fake.
+- Used TF-IDF for text feature extraction and Logistic Regression for classification.
+- Tech Stack: Python, Pandas, Scikit-learn, NLP
+- "View Repository" (https://github.com/rschaurasiya/fake_news_detection)
+
+Current Focus
+
+- Exploring LLMs and Agentic AI.
+- Building practical AI applications using RAG and LLMs.
+- Improving my skills in data analysis, machine learning, and model deployment.
+- Learning how to develop reliable AI solutions for real-world problems.
+
+Connect With Me
+
+- GitHub: "rschaurasiya" (https://github.com/rschaurasiya)
+- LinkedIn: "Connect with me" (https://www.linkedin.com/in/radheshyamkumar)
+- Portfolio: "View my portfolio" (https://codebasics.io/portfolio/RADHESHYAM-KUMAR-CHAURASIYA)
+
+---
+
+Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
