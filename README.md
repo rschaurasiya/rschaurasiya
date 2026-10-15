@@ -38,49 +38,42 @@ Featured Projects
 - Tech Stack: Python, LangChain, ChromaDB, Groq, Streamlit
 - "View Repository" (https://github.com/rschaurasiya/Real_Estate_AI_Assistant)
 
-2. Vehicle Damage Detection
+### 2. Vehicle Damage Detection
 
 - Developed a deep-learning application to classify vehicle images into damage categories.
 - Used transfer learning with ResNet50 and deployed the application using Streamlit.
 - Tech Stack: Python, PyTorch, Deep Learning, ResNet50, Streamlit
 - "View Repository" (https://github.com/rschaurasiya/Vehicle_damage_detection)
 
-3. Credit Risk Prediction
+### 3. Credit Risk Prediction
 
 - Built machine learning models to assess credit risk.
 - Applied data preprocessing, class-imbalance handling, and hyperparameter optimization.
 - Tech Stack: Python, Pandas, Scikit-learn, XGBoost, Optuna
 - "View Repository" (https://github.com/rschaurasiya/ml_project_credit_risk_modeling)
 
-4. Health Premium Prediction
+### 4. Health Premium Prediction
 
 - Developed a machine learning application to estimate health insurance premiums.
 - Used Linear Regression and XGBoost for prediction and deployed the application with Streamlit.
 - Tech Stack: Python, Pandas, Scikit-learn, XGBoost, Streamlit
 - "View Repository" (https://github.com/rschaurasiya/ML-project-Health-premium-prediction)
 
-5. Expense Management System
+### 5. Expense Management System
 
 - Built an application to record and track expenses and visualize spending.
 - Integrated a Streamlit frontend, FastAPI backend, and MySQL database.
 - Tech Stack: Python, MySQL, FastAPI, Streamlit
 - "View Repository" (https://github.com/rschaurasiya/Expense_management)
 
-6. Fake News Detection
-
-- Developed a machine learning model to classify news as real or fake.
-- Used TF-IDF for text feature extraction and Logistic Regression for classification.
-- Tech Stack: Python, Pandas, Scikit-learn, NLP
-- "View Repository" (https://github.com/rschaurasiya/fake_news_detection)
-
-Current Focus
+### Current Focus
 
 - Exploring LLMs and Agentic AI.
 - Building practical AI applications using RAG and LLMs.
 - Improving my skills in data analysis, machine learning, and model deployment.
 - Learning how to develop reliable AI solutions for real-world problems.
 
-Connect With Me
+### Connect With Me
 
 - GitHub: "rschaurasiya" (https://github.com/rschaurasiya)
 - LinkedIn: "Connect with me" (https://www.linkedin.com/in/radheshyamkumar)
