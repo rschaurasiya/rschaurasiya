@@ -28,7 +28,7 @@ I'm a B.Tech CSE student at I.K. Gujral Punjab Technical University (IKGPTU), fo
 - Database: MySQL
 - Tools: Git, GitHub, Jupyter Notebook, VS Code, MLflow
 
-Featured Projects
+## Featured Projects
 
 ### 1. Real Estate AI Assistant
 
